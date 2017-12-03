@@ -1,0 +1,2 @@
+# merhaba
+beni oku dosyası
